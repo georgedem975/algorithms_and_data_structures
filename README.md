@@ -1,6 +1,6 @@
 ### Алгоритмы и структуры данных
 ---
-#### Путеводитель
+#### Путеводитель по алгоритмам и структурам данных
 1. [Амортизационный анализ]()
 2. [Персистентные структуры данных]()
 3. [Приоритетные очереди]()
@@ -18,3 +18,9 @@
 15. [Связь между структурами данных]()
 16. [Алгоритмы во внешней памяти]()
 17. [графовые алгоритмы]()
+
+---
+#### Практика
+1. [leetcode](https://github.com/georgedem975/algorithms_and_data_structures/tree/master/leetcode)
+2. [pcms](https://github.com/georgedem975/algorithms_and_data_structures/tree/master/pcms(graphs))
+3. [homeworks](https://github.com/georgedem975/algorithms_and_data_structures/tree/master/homework)
