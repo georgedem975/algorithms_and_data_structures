@@ -1,6 +1,6 @@
-### algorithms and data structures
+### Алгоритмы и структуры данных
 ---
-#### Travel guide
+#### Путеводитель
 1. [Амортизационный анализ]()
 2. [Персистентные структуры данных]()
 3. [Приоритетные очереди]()
@@ -18,6 +18,3 @@
 15. [Связь между структурами данных]()
 16. [Алгоритмы во внешней памяти]()
 17. [графовые алгоритмы]()
-
----
-##### This repository will contain works related to algorithms and data structures. If you want, you can use them for your own purposes. If you have any questions, you can contact me [here](https://t.me/georgedemyan)
